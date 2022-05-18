@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MJMorales98
+- 👀 I’m interested in Python, C++, C#, Java, JavaScript, SQL, and working with data.
+- 🌱 I’m currently learning Java, JavaScript, C#, SQL
+- 💞️ I’m looking to collaborate on anything.
+- 📫 How to reach me: mmorales30@angelo.edu
